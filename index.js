@@ -1,5 +1,6 @@
 const { ApolloServer } = require(`apollo-server`)
 
+
 const typeDefs = `
   enum PhotoCategory {
     SELFIE
